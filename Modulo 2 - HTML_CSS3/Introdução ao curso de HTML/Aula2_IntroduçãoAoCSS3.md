@@ -210,4 +210,19 @@ O font-size nos ajuda a mudar o tamanho do texto, existem algumas unidades de me
 Usamos o font-style para tornar um texto itálico, na maioria das vezes você usará apenas o valor *italic* para ele, mas se precisar tirar o itálico de um texto você pode usar o valor *normal*.
 
 
+Padding e Margin
 
+Estilizando textos
+
+Font-family
+
+Estilizando Listas
+
+list-style-type
+
+Dimensão e Alinhamento
+
+Max-width / Max-heigth
+Max-width / Max-heigth
+Margin
+Text align
