@@ -4,21 +4,13 @@
 
 (Como boa prática, sempre informar com uma boa descrição, do que se trata o commit)
 
-git push -u origin master
+## git push -u origin master/main
 
 (comando para enviar as novas mudanças)
 
-git status
+# git status
 
 (Verifiar se está tudo ok com o repositorio)
-
-###  git add
-
-Vai preparar as alterações que você fez para serem enviadas, mas aqui, elas ainda não foram enviadas.
-
-### git commit
-
-O git commit está “empacotando” as alterações que o comando git add preparou para serem enviadas.
 
 ### git add
 
